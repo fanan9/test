@@ -14,7 +14,19 @@
         <outline text="אהבנו ~ ארי שמאי" title="אהבנו ~ ארי שמאי" type="rss" xmlUrl="https://raw.githubusercontent.com/fanan9/radio-rss-aod/main/%D7%A8%D7%93%D7%99%D7%95%20%D7%9C%D7%91%20%D7%94%D7%9E%D7%93%D7%99%D7%A0%D7%94%2091FM/%D7%90%D7%94%D7%91%D7%A0%D7%95%20~%20%D7%90%D7%A8%D7%99%20%D7%A9%D7%9E%D7%90%D7%99.rss" />
         <outline text="אופיר וחריש בחמישי ~ אופיר לוי וליאור חריש" title="אופיר וחריש בחמישי ~ אופיר לוי וליאור חריש" type="rss" xmlUrl="https://raw.githubusercontent.com/fanan9/radio-rss-aod/main/%D7%A8%D7%93%D7%99%D7%95%20%D7%9C%D7%91%20%D7%94%D7%9E%D7%93%D7%99%D7%A0%D7%94%2091FM/%D7%90%D7%95%D7%A4%D7%99%D7%A8%20%D7%95%D7%97%D7%A8%D7%99%D7%A9%20%D7%91%D7%97%D7%9E%D7%99%D7%A9%D7%99%20~%20%D7%90%D7%95%D7%A4%D7%99%D7%A8%20%D7%9C%D7%95%D7%99%20%D7%95%D7%9C%D7%99%D7%90%D7%95%D7%A8%20%D7%97%D7%A8%D7%99%D7%A9.rss" />
       </outline>
- 
+    <outline text="סרטים" title="סרטים">
+      <outline text="Unknown movies" title="Unknown movies" type="rss" xmlUrl="https://raw.githubusercontent.com/fanan9/movies-xml/main/Unknown%20movies.xml" />
+      <outline text="אימה movies" title="אימה movies" type="rss" xmlUrl="https://raw.githubusercontent.com/fanan9/movies-xml/main/%D7%90%D7%99%D7%9E%D7%94%20movies.xml" />
+      <outline text="אנימציה movies" title="אנימציה movies" type="rss" xmlUrl="https://raw.githubusercontent.com/fanan9/movies-xml/main/%D7%90%D7%A0%D7%99%D7%9E%D7%A6%D7%99%D7%94%20movies.xml" />
+      <outline text="אקשן movies" title="אקשן movies" type="rss" xmlUrl="https://raw.githubusercontent.com/fanan9/movies-xml/main/%D7%90%D7%A7%D7%A9%D7%9F%20movies.xml" />
+      </outline>
+    <outline text="סדרות" title="סדרות">
+      <outline text="אימה" title="אימה" type="rss" xmlUrl="https://raw.githubusercontent.com/fanan9/series-xml/main/%D7%90%D7%99%D7%9E%D7%94.xml" />
+      <outline text="אנימציה" title="אנימציה" type="rss" xmlUrl="https://raw.githubusercontent.com/fanan9/series-xml/main/%D7%90%D7%A0%D7%99%D7%9E%D7%A6%D7%99%D7%94.xml" />
+      <outline text="אקשן" title="אקשן" type="rss" xmlUrl="https://raw.githubusercontent.com/fanan9/series-xml/main/%D7%90%D7%A7%D7%A9%D7%9F.xml" />
+      <outline text="ביוגרפיה" title="ביוגרפיה" type="rss" xmlUrl="https://raw.githubusercontent.com/fanan9/series-xml/main/%D7%91%D7%99%D7%95%D7%92%D7%A8%D7%A4%D7%99%D7%94.xml" />
+      </outline>      
+      
 
   </body>
 </opml>    
