@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head>
+    <title>רדיו</title>
+  </head>
+  <body>
+  
+      <outline text="רדיו ECO 99FM" title="רדיו ECO 99FM">
+        <outline text="eco רציתי להגיד לך ש" title="eco רציתי להגיד לך ש" type="rss" xmlUrl="https://raw.githubusercontent.com/fanan9/radio-rss-aod/main/%D7%A8%D7%93%D7%99%D7%95%20ECO%2099FM/eco%20%D7%A8%D7%A6%D7%99%D7%AA%D7%99%20%D7%9C%D7%94%D7%92%D7%99%D7%93%20%D7%9C%D7%9A%20%D7%A9.rss" />
+        <outline text="אביה פרחי" title="אביה פרחי" type="rss" xmlUrl="https://raw.githubusercontent.com/fanan9/radio-rss-aod/main/%D7%A8%D7%93%D7%99%D7%95%20ECO%2099FM/%D7%90%D7%91%D7%99%D7%94%20%D7%A4%D7%A8%D7%97%D7%99.rss" />
+      </outline>
+      <outline text="רדיו לב המדינה 91FM" title="רדיו לב המדינה 91FM">
+        <outline text="אהבה לנצח ~ עם קרן מילוא" title="אהבה לנצח ~ עם קרן מילוא" type="rss" xmlUrl="https://raw.githubusercontent.com/fanan9/radio-rss-aod/main/%D7%A8%D7%93%D7%99%D7%95%20%D7%9C%D7%91%20%D7%94%D7%9E%D7%93%D7%99%D7%A0%D7%94%2091FM/%D7%90%D7%94%D7%91%D7%94%20%D7%9C%D7%A0%D7%A6%D7%97%20~%20%D7%A2%D7%9D%20%D7%A7%D7%A8%D7%9F%20%D7%9E%D7%99%D7%9C%D7%95%D7%90.rss" />
+        <outline text="אהבנו ~ ארי שמאי" title="אהבנו ~ ארי שמאי" type="rss" xmlUrl="https://raw.githubusercontent.com/fanan9/radio-rss-aod/main/%D7%A8%D7%93%D7%99%D7%95%20%D7%9C%D7%91%20%D7%94%D7%9E%D7%93%D7%99%D7%A0%D7%94%2091FM/%D7%90%D7%94%D7%91%D7%A0%D7%95%20~%20%D7%90%D7%A8%D7%99%20%D7%A9%D7%9E%D7%90%D7%99.rss" />
+        <outline text="אופיר וחריש בחמישי ~ אופיר לוי וליאור חריש" title="אופיר וחריש בחמישי ~ אופיר לוי וליאור חריש" type="rss" xmlUrl="https://raw.githubusercontent.com/fanan9/radio-rss-aod/main/%D7%A8%D7%93%D7%99%D7%95%20%D7%9C%D7%91%20%D7%94%D7%9E%D7%93%D7%99%D7%A0%D7%94%2091FM/%D7%90%D7%95%D7%A4%D7%99%D7%A8%20%D7%95%D7%97%D7%A8%D7%99%D7%A9%20%D7%91%D7%97%D7%9E%D7%99%D7%A9%D7%99%20~%20%D7%90%D7%95%D7%A4%D7%99%D7%A8%20%D7%9C%D7%95%D7%99%20%D7%95%D7%9C%D7%99%D7%90%D7%95%D7%A8%20%D7%97%D7%A8%D7%99%D7%A9.rss" />
+      </outline>
+ 
+
+  </body>
+</opml>    
