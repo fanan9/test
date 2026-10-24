@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head>
+    <title>טסט מעורב</title>
+  </head>
+  <body>
+    <outline text="רדיו ECO 99FM" title="רדיו ECO 99FM">
+      <outline text="koko1 m3u radio" title="שידורי M3U הולנד" type="m3u" xmlUrl="https://de1.api.radio-browser.info/m3u/stations/search?limit=10&hidebroken=true&order=clickcount&reverse=true" />
+      <outline text="koko2 m3u tv" title="שידורי M3U הולנד" type="m3u" xmlUrl="https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us.m3u" />
+      <outline text="koko XSPF radio" title="ערוץ XSPF לדוגמה" type="xspf" xmlUrl="https://de1.api.radio-browser.info/xspf/stations/search?limit=10&hidebroken=true&order=clickcount&reverse=true" />
+      <outline text="koko PLS radio" title="ערוץ PLS לדוגמה" type="pls" xmlUrl="https://de1.api.radio-browser.info/pls/stations/search?limit=10&hidebroken=true&order=clickcount&reverse=true" />
+      <outline text="סרטים RSS" title="סרטים RSS" type="rss" xmlUrl="https://raw.githubusercontent.com/fanan9/movies-xml/refs/heads/main/%D7%90%D7%99%D7%9E%D7%94%20movies.xml" />
+      <outline text="סדרות RSS" title="סדרות RSS" type="rss" xmlUrl="https://raw.githubusercontent.com/fanan9/series-xml/refs/heads/main/Disney.xml" />
+    </outline>
+  </body>
+</opml>
