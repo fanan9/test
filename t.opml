@@ -12,31 +12,33 @@
       </outline>
     
       <outline text="סרטים" title="סרטים">
-        <outline text="אימה" title="אימה" type="rss" xmlUrl="https://raw.githubusercontent.com/fanan9/movies-xml/main/%D7%90%D7%99%D7%9E%D7%94%20movies.xml" />
-        <outline text="אנימציה" title="אנימציה" type="rss" xmlUrl="https://raw.githubusercontent.com/fanan9/movies-xml/main/%D7%90%D7%A0%D7%99%D7%9E%D7%A6%D7%99%D7%94%20movies.xml" />
-        <outline text="אקשן" title="אקשן" type="rss" xmlUrl="https://raw.githubusercontent.com/fanan9/movies-xml/main/%D7%90%D7%A7%D7%A9%D7%9F%20movies.xml" />
-        <outline text="ביוגרפיה" title="ביוגרפיה" type="rss" xmlUrl="https://raw.githubusercontent.com/fanan9/movies-xml/main/%D7%91%D7%99%D7%95%D7%92%D7%A8%D7%A4%D7%99%D7%94%20movies.xml" />
-        <outline text="דוקומנטרי" title="דוקומנטרי" type="rss" xmlUrl="https://raw.githubusercontent.com/fanan9/movies-xml/main/%D7%93%D7%95%D7%A7%D7%95%D7%9E%D7%A0%D7%98%D7%A8%D7%99%20movies.xml" />
-        <outline text="דרמה" title="דרמה" type="rss" xmlUrl="https://raw.githubusercontent.com/fanan9/movies-xml/main/%D7%93%D7%A8%D7%9E%D7%94%20movies.xml" />
-        <outline text="הסטוריה" title="הסטוריה" type="rss" xmlUrl="https://raw.githubusercontent.com/fanan9/movies-xml/main/%D7%94%D7%A1%D7%98%D7%95%D7%A8%D7%99%D7%94%20movies.xml" />
-        <outline text="הרפתקאות" title="הרפתקאות" type="rss" xmlUrl="https://raw.githubusercontent.com/fanan9/movies-xml/main/%D7%94%D7%A8%D7%A4%D7%AA%D7%A7%D7%90%D7%95%D7%AA%20movies.xml" />
-        <outline text="חדשות" title="חדשות" type="rss" xmlUrl="https://raw.githubusercontent.com/fanan9/movies-xml/main/%D7%97%D7%93%D7%A9%D7%95%D7%AA%20movies.xml" />
-        <outline text="מדע_בדיוני" title="מדע_בדיוני" type="rss" xmlUrl="https://raw.githubusercontent.com/fanan9/movies-xml/main/%D7%9E%D7%93%D7%A2_%D7%91%D7%93%D7%99%D7%95%D7%A0%D7%99%20movies.xml" />
-        <outline text="מוסיקה" title="מוסיקה" type="rss" xmlUrl="https://raw.githubusercontent.com/fanan9/movies-xml/main/%D7%9E%D7%95%D7%A1%D7%99%D7%A7%D7%94%20movies.xml" />
-        <outline text="מותחן" title="מותחן" type="rss" xmlUrl="https://raw.githubusercontent.com/fanan9/movies-xml/main/%D7%9E%D7%95%D7%AA%D7%97%D7%9F%20movies.xml" />
-        <outline text="מלחמה" title="מלחמה" type="rss" xmlUrl="https://raw.githubusercontent.com/fanan9/movies-xml/main/%D7%9E%D7%9C%D7%97%D7%9E%D7%94%20movies.xml" />
-        <outline text="מסתורין" title="מסתורין" type="rss" xmlUrl="https://raw.githubusercontent.com/fanan9/movies-xml/main/%D7%9E%D7%A1%D7%AA%D7%95%D7%A8%D7%99%D7%9F%20movies.xml" />
-        <outline text="מערבון" title="מערבון" type="rss" xmlUrl="https://raw.githubusercontent.com/fanan9/movies-xml/main/%D7%9E%D7%A2%D7%A8%D7%91%D7%95%D7%9F%20movies.xml" />
-        <outline text="משפחה" title="משפחה" type="rss" xmlUrl="https://raw.githubusercontent.com/fanan9/movies-xml/main/%D7%9E%D7%A9%D7%A4%D7%97%D7%94%20movies.xml" />
-        <outline text="ספורט" title="ספורט" type="rss" xmlUrl="https://raw.githubusercontent.com/fanan9/movies-xml/main/%D7%A1%D7%A4%D7%95%D7%A8%D7%98%20movies.xml" />
-        <outline text="פנטזיה" title="פנטזיה" type="rss" xmlUrl="https://raw.githubusercontent.com/fanan9/movies-xml/main/%D7%A4%D7%A0%D7%98%D7%96%D7%99%D7%94%20movies.xml" />
-        <outline text="פשע" title="פשע" type="rss" xmlUrl="https://raw.githubusercontent.com/fanan9/movies-xml/main/%D7%A4%D7%A9%D7%A2%20movies.xml" />
-        <outline text="קומדיה" title="קומדיה" type="rss" xmlUrl="https://raw.githubusercontent.com/fanan9/movies-xml/main/%D7%A7%D7%95%D7%9E%D7%93%D7%99%D7%94%20movies.xml" />
-        <outline text="רומנטי" title="רומנטי" type="rss" xmlUrl="https://raw.githubusercontent.com/fanan9/movies-xml/main/%D7%A8%D7%95%D7%9E%D7%A0%D7%98%D7%99%20movies.xml" />
-        <outline text="רומנטיקה" title="רומנטיקה" type="rss" xmlUrl="https://raw.githubusercontent.com/fanan9/movies-xml/main/%D7%A8%D7%95%D7%9E%D7%A0%D7%98%D7%99%D7%A7%D7%94%20movies.xml" />
-        <outline text="Unknown" title="Unknown" type="rss" xmlUrl="https://raw.githubusercontent.com/fanan9/movies-xml/main/Unknown%20movies.xml" />
+        <outline text="נוספו בשבוע האחרון" title="נוספו בשבוע האחרון" type="rss" xmlUrl="https://raw.githubusercontent.com/fanan9/movies-xml/refs/heads/main/%D7%A1%D7%A8%D7%98%D7%99%D7%9D%20%D7%A9%D7%A0%D7%95%D7%A1%D7%A4%D7%95%20%D7%9C%D7%90%D7%97%D7%A8%D7%95%D7%A0%D7%94.xml" />
+        <outline text="אימה" title="אימה" type="rss" xmlUrl="https://raw.githubusercontent.com/fanan9/movies-xml/main/%D7%90%D7%99%D7%9E%D7%94.xml" />
+        <outline text="אנימציה" title="אנימציה" type="rss" xmlUrl="https://raw.githubusercontent.com/fanan9/movies-xml/main/%D7%90%D7%A0%D7%99%D7%9E%D7%A6%D7%99%D7%94.xml" />
+        <outline text="אקשן" title="אקשן" type="rss" xmlUrl="https://raw.githubusercontent.com/fanan9/movies-xml/main/%D7%90%D7%A7%D7%A9%D7%9F.xml" />
+        <outline text="ביוגרפיה" title="ביוגרפיה" type="rss" xmlUrl="https://raw.githubusercontent.com/fanan9/movies-xml/main/%D7%91%D7%99%D7%95%D7%92%D7%A8%D7%A4%D7%99%D7%94.xml" />
+        <outline text="דוקומנטרי" title="דוקומנטרי" type="rss" xmlUrl="https://raw.githubusercontent.com/fanan9/movies-xml/main/%D7%93%D7%95%D7%A7%D7%95%D7%9E%D7%A0%D7%98%D7%A8%D7%99.xml" />
+        <outline text="דרמה" title="דרמה" type="rss" xmlUrl="https://raw.githubusercontent.com/fanan9/movies-xml/main/%D7%93%D7%A8%D7%9E%D7%94.xml" />
+        <outline text="הסטוריה" title="הסטוריה" type="rss" xmlUrl="https://raw.githubusercontent.com/fanan9/movies-xml/main/%D7%94%D7%A1%D7%98%D7%95%D7%A8%D7%99%D7%94.xml" />
+        <outline text="הרפתקאות" title="הרפתקאות" type="rss" xmlUrl="https://raw.githubusercontent.com/fanan9/movies-xml/main/%D7%94%D7%A8%D7%A4%D7%AA%D7%A7%D7%90%D7%95%D7%AA.xml" />
+        <outline text="חדשות" title="חדשות" type="rss" xmlUrl="https://raw.githubusercontent.com/fanan9/movies-xml/main/%D7%97%D7%93%D7%A9%D7%95%D7%AA.xml" />
+        <outline text="מדע_בדיוני" title="מדע_בדיוני" type="rss" xmlUrl="https://raw.githubusercontent.com/fanan9/movies-xml/main/%D7%9E%D7%93%D7%A2_%D7%91%D7%93%D7%99%D7%95%D7%A0%D7%99.xml" />
+        <outline text="מוסיקה" title="מוסיקה" type="rss" xmlUrl="https://raw.githubusercontent.com/fanan9/movies-xml/main/%D7%9E%D7%95%D7%A1%D7%99%D7%A7%D7%94.xml" />
+        <outline text="מותחן" title="מותחן" type="rss" xmlUrl="https://raw.githubusercontent.com/fanan9/movies-xml/main/%D7%9E%D7%95%D7%AA%D7%97%D7%9F.xml" />
+        <outline text="מלחמה" title="מלחמה" type="rss" xmlUrl="https://raw.githubusercontent.com/fanan9/movies-xml/main/%D7%9E%D7%9C%D7%97%D7%9E%D7%94.xml" />
+        <outline text="מסתורין" title="מסתורין" type="rss" xmlUrl="https://raw.githubusercontent.com/fanan9/movies-xml/main/%D7%9E%D7%A1%D7%AA%D7%95%D7%A8%D7%99%D7%9F.xml" />
+        <outline text="מערבון" title="מערבון" type="rss" xmlUrl="https://raw.githubusercontent.com/fanan9/movies-xml/main/%D7%9E%D7%A2%D7%A8%D7%91%D7%95%D7%9F.xml" />
+        <outline text="משפחה" title="משפחה" type="rss" xmlUrl="https://raw.githubusercontent.com/fanan9/movies-xml/main/%D7%9E%D7%A9%D7%A4%D7%97%D7%94.xml" />
+        <outline text="ספורט" title="ספורט" type="rss" xmlUrl="https://raw.githubusercontent.com/fanan9/movies-xml/main/%D7%A1%D7%A4%D7%95%D7%A8%D7%98.xml" />
+        <outline text="פנטזיה" title="פנטזיה" type="rss" xmlUrl="https://raw.githubusercontent.com/fanan9/movies-xml/main/%D7%A4%D7%A0%D7%98%D7%96%D7%99%D7%94.xml" />
+        <outline text="פשע" title="פשע" type="rss" xmlUrl="https://raw.githubusercontent.com/fanan9/movies-xml/main/%D7%A4%D7%A9%D7%A2.xml" />
+        <outline text="קומדיה" title="קומדיה" type="rss" xmlUrl="https://raw.githubusercontent.com/fanan9/movies-xml/main/%D7%A7%D7%95%D7%9E%D7%93%D7%99%D7%94.xml" />
+        <outline text="רומנטי" title="רומנטי" type="rss" xmlUrl="https://raw.githubusercontent.com/fanan9/movies-xml/main/%D7%A8%D7%95%D7%9E%D7%A0%D7%98%D7%99.xml" />
+        <outline text="רומנטיקה" title="רומנטיקה" type="rss" xmlUrl="https://raw.githubusercontent.com/fanan9/movies-xml/main/%D7%A8%D7%95%D7%9E%D7%A0%D7%98%D7%99%D7%A7%D7%94.xml" />
+        <outline text="Unknown" title="Unknown" type="rss" xmlUrl="https://raw.githubusercontent.com/fanan9/movies-xml/main/Unknown.xml" />
       </outline>
       <outline text="סדרות" title="סדרות">
+        <outline text="נוספו בשבוע האחרון" title="נוספו בשבוע האחרון" type="rss" xmlUrl="https://raw.githubusercontent.com/fanan9/series-xml/refs/heads/main/%D7%A1%D7%93%D7%A8%D7%95%D7%AA%20%D7%A9%D7%A0%D7%95%D7%A1%D7%A4%D7%95%20%D7%9C%D7%90%D7%97%D7%A8%D7%95%D7%A0%D7%94.xml" />
         <outline text="אימה.xml" title="אימה.xml" type="rss" xmlUrl="https://raw.githubusercontent.com/fanan9/series-xml/main/%D7%90%D7%99%D7%9E%D7%94.xml" />
         <outline text="אנימציה.xml" title="אנימציה.xml" type="rss" xmlUrl="https://raw.githubusercontent.com/fanan9/series-xml/main/%D7%90%D7%A0%D7%99%D7%9E%D7%A6%D7%99%D7%94.xml" />
         <outline text="אקשן.xml" title="אקשן.xml" type="rss" xmlUrl="https://raw.githubusercontent.com/fanan9/series-xml/main/%D7%90%D7%A7%D7%A9%D7%9F.xml" />
