@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head>
+    <title>tisora player</title>
+  </head>
+  <body>
+    <outline text="XML" title="XML" xmlThumb="http://koko.jpg">
+      <outline text="רדיו וטלוויזיה מישראל" title="רדיו וטלוויזיה מישראל" xmlThumb="http://koko.jpg">
+        <outline text="טלוויזיה ישראלית" title="טלוויזיה ישראלית" type="rss" xmlThumb="https://img.icons8.com/liquid-glass-color/1200/video.jpg" xmlUrl="https://raw.githubusercontent.com/fanan9/radio-tv-live-rss/main/israel-tv-channels.rss" />
+        <outline text="רדיו ישראלי" title="רדיו ישראלי" type="rss" xmlThumb="https://img.icons8.com/liquid-glass-color/1200/video.jpg" xmlUrl="https://raw.githubusercontent.com/fanan9/radio-tv-live-rss/main/israel-radio-channels.rss" />
+      </outline>
+      <outline text="סרטים" title="סרטים" xmlThumb="http://koko.jpg">
+        <outline text="נוספו בשבוע האחרון" title="נוספו בשבוע האחרון" type="rss" xmlThumb="https://img.icons8.com/liquid-glass-color/1200/video.jpg" xmlUrl="https://raw.githubusercontent.com/fanan9/movies-xml/refs/heads/main/%D7%A1%D7%A8%D7%98%D7%99%D7%9D%20%D7%A9%D7%A0%D7%95%D7%A1%D7%A4%D7%95%20%D7%9C%D7%90%D7%97%D7%A8%D7%95%D7%A0%D7%94.xml" />
+        <outline text="אימה" title="אימה" type="rss" xmlThumb="https://img.icons8.com/liquid-glass-color/1200/video.jpg" xmlUrl="https://raw.githubusercontent.com/fanan9/movies-xml/main/%D7%90%D7%99%D7%9E%D7%94.xml" />
+        <outline text="אנימציה" title="אנימציה" type="rss" xmlThumb="https://img.icons8.com/liquid-glass-color/1200/video.jpg" xmlUrl="https://raw.githubusercontent.com/fanan9/movies-xml/main/%D7%90%D7%A0%D7%99%D7%9E%D7%A6%D7%99%D7%94.xml" />
+        <outline text="אקשן" title="אקשן" type="rss" xmlThumb="https://img.icons8.com/liquid-glass-color/1200/video.jpg" xmlUrl="https://raw.githubusercontent.com/fanan9/movies-xml/main/%D7%90%D7%A7%D7%A9%D7%9F.xml" />
+      </outline>
+      <outline text="רדיו דרום 101.5 FM" title="רדיו דרום 101.5 FM" xmlThumb="http://koko.jpg">
+        <outline text="היי דידי לוקאלי" title="היי דידי לוקאלי" type="rss" xmlThumb="https://radiodarom.co.il/Upload/Media/Images/07a0521c-5313-44c6-ba72-9121ca61ccb5.jpg" xmlUrl="https://raw.githubusercontent.com/fanan9/radio-rss-aod/refs/heads/main/%D7%A8%D7%93%D7%99%D7%95%20%D7%93%D7%A8%D7%95%D7%9D%20101.5%20FM/%D7%94%D7%99%D7%99%20%D7%93%D7%99%D7%93%D7%99%20%D7%9C%D7%95%D7%A7%D7%90%D7%9C%D7%99.rss" />
+        <outline text="בוקר טוב דרום" title="בוקר טוב דרום" type="rss" xmlThumb="https://radiodarom.co.il/Upload/Media/Images/c946b3d0-4bf5-419b-b906-77dbb9f52af6.jpg" xmlUrl="https://raw.githubusercontent.com/fanan9/radio-rss-aod/main/%D7%A8%D7%93%D7%99%D7%95%20%D7%93%D7%A8%D7%95%D7%9D%20101.5%20FM/%D7%91%D7%95%D7%A7%D7%A8%20%D7%98%D7%95%D7%91%20%D7%93%D7%A8%D7%95%D7%9D.rss" />
+        <outline text="בחצי היורם" title="בחצי היורם" type="rss" xmlThumb="https://radiodarom.co.il/Upload/Media/Images/3639fe98-65cf-49a1-9c9b-28d7c200bd1f.jpeg" xmlUrl="https://raw.githubusercontent.com/fanan9/radio-rss-aod/main/%D7%A8%D7%93%D7%99%D7%95%20%D7%93%D7%A8%D7%95%D7%9D%20101.5%20FM/%D7%91%D7%97%D7%A6%D7%99%20%D7%94%D7%99%D7%95%D7%A8%D7%9D.rss" />
+        <outline text="בחצי היורם עם יורם סוויסה" title="בחצי היורם עם יורם סוויסה" type="rss" xmlThumb="https://radiodarom.co.il/Upload/Media/Images/fe29a047-708d-4633-8720-31652980c646.jpg" xmlUrl="https://raw.githubusercontent.com/fanan9/radio-rss-aod/main/%D7%A8%D7%93%D7%99%D7%95%20%D7%93%D7%A8%D7%95%D7%9D%20101.5%20FM/%D7%91%D7%97%D7%A6%D7%99%20%D7%94%D7%99%D7%95%D7%A8%D7%9D%20%D7%A2%D7%9D%20%D7%99%D7%95%D7%A8%D7%9D%20%D7%A1%D7%95%D7%95%D7%99%D7%A1%D7%94.rss" />
+        <outline text="הבוקר עם שמעון אלקבץ" title="הבוקר עם שמעון אלקבץ" type="rss" xmlThumb="https://1015.radiodarom.co.il/Upload/Media/Images/4648c40c-0872-4f0e-a0b9-7b1a7812f585.jpg" xmlUrl="https://raw.githubusercontent.com/fanan9/radio-rss-aod/main/%D7%A8%D7%93%D7%99%D7%95%20%D7%93%D7%A8%D7%95%D7%9D%20101.5%20FM/%D7%94%D7%91%D7%95%D7%A7%D7%A8%20%D7%A2%D7%9D%20%D7%A9%D7%9E%D7%A2%D7%95%D7%9F%20%D7%90%D7%9C%D7%A7%D7%91%D7%A5.rss" />
+        <outline text="הבוקר עם שרון גל" title="הבוקר עם שרון גל" type="rss" xmlThumb="https://radiodarom.co.il/Upload/Media/Images/4e319138-2ec2-4eb3-91bd-144da85918ff.jpg" xmlUrl="https://raw.githubusercontent.com/fanan9/radio-rss-aod/main/%D7%A8%D7%93%D7%99%D7%95%20%D7%93%D7%A8%D7%95%D7%9D%20101.5%20FM/%D7%94%D7%91%D7%95%D7%A7%D7%A8%20%D7%A2%D7%9D%20%D7%A9%D7%A8%D7%95%D7%9F%20%D7%92%D7%9C.rss" />
+        <outline text="היציע הדרומי" title="היציע הדרומי" type="rss" xmlThumb="https://radiodarom.co.il/Upload/Media/Images/9ae79d13-662c-48d7-a036-4038b48253d7.jpeg" xmlUrl="https://raw.githubusercontent.com/fanan9/radio-rss-aod/main/%D7%A8%D7%93%D7%99%D7%95%20%D7%93%D7%A8%D7%95%D7%9D%20101.5%20FM/%D7%94%D7%99%D7%A6%D7%99%D7%A2%20%D7%94%D7%93%D7%A8%D7%95%D7%9E%D7%99.rss" />
+        <outline text="הכל כתוב" title="הכל כתוב" type="rss" xmlThumb="https://radiodarom.co.il/Upload/Media/Images/8cb80935-f419-4f04-9124-e12b01846820.jpeg" xmlUrl="https://raw.githubusercontent.com/fanan9/radio-rss-aod/main/%D7%A8%D7%93%D7%99%D7%95%20%D7%93%D7%A8%D7%95%D7%9D%20101.5%20FM/%D7%94%D7%9B%D7%9C%20%D7%9B%D7%AA%D7%95%D7%91.rss" />
+        <outline text="המצעד הרשמי השנתי" title="המצעד הרשמי השנתי" type="rss" xmlThumb="https://1015.radiodarom.co.il/Upload/Media/Images/3775898e-a48c-43ac-89e3-b686da09355d.png" xmlUrl="https://raw.githubusercontent.com/fanan9/radio-rss-aod/main/%D7%A8%D7%93%D7%99%D7%95%20%D7%93%D7%A8%D7%95%D7%9D%20101.5%20FM/%D7%94%D7%9E%D7%A6%D7%A2%D7%93%20%D7%94%D7%A8%D7%A9%D7%9E%D7%99%20%D7%94%D7%A9%D7%A0%D7%AA%D7%99.rss" />
+      </outline>
+      <outline text="טלוויזיה לפי קטגוריות באנגלית" title="טלוויזיה לפי קטגוריות באנגלית" xmlThumb="http://koko.jpg">
+        <outline text="all" title="all" type="rss" xmlThumb="https://img.icons8.com/liquid-glass-color/1200/video.jpg" xmlUrl="https://raw.githubusercontent.com/fanan9/radio-tv-live-rss/main/only_english_rss_tv_categories/all.rss" />
+        <outline text="animation" title="animation" type="rss" xmlThumb="https://img.icons8.com/liquid-glass-color/1200/video.jpg" xmlUrl="https://raw.githubusercontent.com/fanan9/radio-tv-live-rss/main/only_english_rss_tv_categories/animation.rss" />
+      </outline>
+      <outline text="iptv - m3u" title="iptv - m3u" xmlThumb="http://koko.jpg">
+        <outline text="ad" title="ad" type="m3u" xmlThumb="https://raw.githubusercontent.com/fanan9/test/refs/heads/main/m3u.jpg" xmlUrl="https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ad.m3u" />
+        <outline text="ae" title="ae" type="m3u" xmlThumb="https://raw.githubusercontent.com/fanan9/test/refs/heads/main/m3u.jpg" xmlUrl="https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ae.m3u" />
+        <outline text="af" title="af" type="m3u" xmlThumb="https://raw.githubusercontent.com/fanan9/test/refs/heads/main/m3u.jpg" xmlUrl="https://raw.githubusercontent.com/iptv-org/iptv/master/streams/af.m3u" />
+      </outline>
+      <outline text="iptv -pls" title="iptv - pls" xmlThumb="http://koko.jpg">
+        <outline text="ad" title="ad" type="pls" xmlThumb="https://raw.githubusercontent.com/fanan9/test/refs/heads/main/pls.jpg" xmlUrl="https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ad.m3u" />
+        <outline text="ae" title="ae" type="pls" xmlThumb="https://raw.githubusercontent.com/fanan9/test/refs/heads/main/pls.jpg" xmlUrl="https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ae.m3u" />
+        <outline text="af" title="af" type="pls" xmlThumb="https://raw.githubusercontent.com/fanan9/test/refs/heads/main/pls.jpg" xmlUrl="https://raw.githubusercontent.com/iptv-org/iptv/master/streams/af.m3u" />
+      </outline>
+      <outline text="iptv - xspf" title="iptv - xspf" xmlThumb="http://koko.jpg">
+        <outline text="ad" title="ad" type="xspf" xmlThumb="https://raw.githubusercontent.com/fanan9/test/refs/heads/main/xspf.jpg" xmlUrl="https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ad.m3u" />
+        <outline text="ae" title="ae" type="xspf" xmlThumb="https://raw.githubusercontent.com/fanan9/test/refs/heads/main/xspf.jpg" xmlUrl="https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ae.m3u" />
+        <outline text="af" title="af" type="xspf" xmlThumb="https://raw.githubusercontent.com/fanan9/test/refs/heads/main/xspf.jpg" xmlUrl="https://raw.githubusercontent.com/iptv-org/iptv/master/streams/af.m3u" />
+      </outline>
+    </outline>
+  </body>
+</opml>
