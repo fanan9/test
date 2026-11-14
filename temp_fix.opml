@@ -4,7 +4,7 @@
     <title>tisora player</title>
   </head>
   <body>
-    <outline text="XML" title="XML" xmlThumb="http://koko.jpg">
+    <outline text="XML" title="XML">
       <outline text="רדיו וטלוויזיה מישראל" title="רדיו וטלוויזיה מישראל" xmlThumb="http://koko.jpg">
         <outline text="טלוויזיה ישראלית" title="טלוויזיה ישראלית" type="rss" xmlThumb="https://img.icons8.com/liquid-glass-color/1200/video.jpg" xmlUrl="https://raw.githubusercontent.com/fanan9/radio-tv-live-rss/main/israel-tv-channels.rss" />
         <outline text="רדיו ישראלי" title="רדיו ישראלי" type="rss" xmlThumb="https://img.icons8.com/liquid-glass-color/1200/video.jpg" xmlUrl="https://raw.githubusercontent.com/fanan9/radio-tv-live-rss/main/israel-radio-channels.rss" />
